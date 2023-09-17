@@ -1,0 +1,16 @@
+
+.carousel-css img{
+    padding: 0;
+    height: 50vh;
+    width: 100vh;
+}
+
+i{
+font-size: 32px;
+}
+
+
+.cardedit{
+    position: relative;
+    top: 40px;
+}
